@@ -2,7 +2,7 @@
 - 🏫 Studying geophysics at Central South University
 - 🌱 Learning React...
 - 🤖 Interested in Generative AI and Control Science
-- 📫 How to reach me ---> [barkure](https://barku.re)
+- 📫 How to reach me: [barkure](https://barku.re)
 
 ### Coding
 I'm a novice coder 🥹👉👈
