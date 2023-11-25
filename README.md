@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=barkure&theme=dracula)
