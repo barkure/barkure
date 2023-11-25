@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&theme=react&show_icons=true)](https://github.com/barkure?tab=repositories)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkure&layout=pie&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkure&layout=normal&theme=react)
