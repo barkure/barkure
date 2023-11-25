@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&theme=github_dark_dimmed&show_icons=true)](https://github.com/barkure?tab=repositories)
+[![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&theme=react&show_icons=true)](https://github.com/barkure?tab=repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkure&layout=compact)
