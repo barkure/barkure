@@ -10,4 +10,4 @@
 ###  Coding
 a novice coder...
 
-[![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=ambient_gradient)](https://github.com/barkure?tab=repositories)
+[![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=transparent)](https://github.com/barkure?tab=repositories)
