@@ -25,3 +25,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 #### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=transparent)](https://github.com/barkure?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkure&layout=compact&hide=Assembly)](https://github.com/barkure)
