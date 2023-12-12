@@ -1,13 +1,19 @@
 ### Hi, I'm barkure
-<p align="right">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing"></a>
-</p>
-
--  Studying geophysics at Central South University
--  A novice Coder
--  Learning React...
--  Interested in Generative AI and Control Science
--  How to reach me: [barkure](https://barku.re)
+<table>
+  <tr>
+    <td>
+      ### Hi, I'm barkure
+      -  Studying geophysics at Central South University
+      -  A novice Coder
+      -  Learning React...
+      -  Interested in Generative AI and Control Science
+      -  How to reach me: [barkure](https://barku.re)
+    </td>
+    <td>
+      <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing"></a>
+    </td>
+  </tr>
+</table>
 
 ### Coding
 #### Languages and Tools
