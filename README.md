@@ -30,8 +30,5 @@
 ### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=transparent&hide_title=true)](https://github.com/barkure?tab=repositories)
 
-[![Barkure's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/barkure?tab=repositories)
-[![Barkure's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/barkure?tab=repositories)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Barkure's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/barkure?tab=repositories#gh-dark-mode-only)
+[![Barkure's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/barkure?tab=repositories#gh-light-mode-only)
