@@ -1,4 +1,4 @@
-# 👋I'm barkure
+# 👋 I'm barkure
 ### Me
 - 🏫 Studying geophysics at Central South University
 - 🤖 Interested in Generative AI and Control Science
