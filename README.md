@@ -29,3 +29,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=transparent&hide_title=true)](https://github.com/barkure?tab=repositories)
+
+[![Barkure's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=dark&hide_title=true#gh-dark-mode-only)](https://github.com/barkure?tab=repositories)
+[![Barkure's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=default&hide_title=true#gh-light-mode-only)](https://github.com/barkure?tab=repositories)
