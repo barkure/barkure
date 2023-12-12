@@ -1,15 +1,18 @@
 ### Hi, I'm barkure
+### Hi, I'm barkure
 <table>
   <tr>
-    <td>
-      ### Hi, I'm barkure
-      -  Studying geophysics at Central South University
-      -  A novice Coder
-      -  Learning React...
-      -  Interested in Generative AI and Control Science
-      -  How to reach me: [barkure](https://barku.re)
+    <td valign="top">
+      <h3>Hi, I'm barkure</h3>
+      <ul>
+        <li>Studying geophysics at Central South University</li>
+        <li>A novice Coder</li>
+        <li>Learning React...</li>
+        <li>Interested in Generative AI and Control Science</li>
+        <li>How to reach me: <a href="https://barku.re">barkure</a></li>
+      </ul>
     </td>
-    <td>
+    <td valign="top">
       <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing"></a>
     </td>
   </tr>
