@@ -1,5 +1,8 @@
 ### Hi, I'm barkure
-<div><a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing" style="" align="right" ></a></div>
+<div alt="Now Playing" style="">
+<h2>Now Playing</h2>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31cpz4ouugwhmy4vbvgr43o4x2ae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" align="right" ></a>
+</div>
 
 -  Studying geophysics at Central South University
 -  A novice Coder
