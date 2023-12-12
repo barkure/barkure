@@ -28,5 +28,4 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ### GitHub Stats
-[![Barkure's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true#gh-dark-mode-only)](https://github.com/barkure?tab=repositories#gh-dark-mode-only)
-[![Barkure's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=default&hide_title=true#gh-light-mode-only)](https://github.com/barkure?tab=repositories#gh-light-mode-only)
+[![Barkure's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/barkure?tab=repositories)
