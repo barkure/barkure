@@ -1,5 +1,6 @@
 ### Hi, I'm barkure
 -  Studying geophysics at Central South University
+-  A novice Coder
 -  Learning React...
 -  Interested in Generative AI and Control Science
 -  How to reach me: [barkure](https://barku.re)
@@ -13,6 +14,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-a novice coder...
-
+#### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=transparent)](https://github.com/barkure?tab=repositories)
