@@ -2,160 +2,161 @@
 <html lang="zh-cn">
 
 <head>
-    <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barkure</title>
-    <style>
-        body {
-            background-color: #ecf0f1;
-        }
+    <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<style>
+    body {
+        background-color: #ecf0f1;
+    }
 
+    .hello {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        text-align: center;
+        padding-top: 10%;
+    }
+
+    .hello h1 {
+        font-size: 3em;
+    }
+
+    .hello br {
+        display: none;
+    }
+
+    .color-name {
+        color: #1859ad;
+    }
+
+    .text {
+        text-align: center;
+        font-size: 1.5em;
+        color: #000000;
+        padding-left: 17%;
+        padding-right: 17%;
+    }
+
+    .text p {
+        line-height: 1.6em;
+    }
+
+    .text br {
+        display: none;
+    }
+
+    .links {
+        display: flex;
+        justify-content: center;
+        padding-top: 3%;
+    }
+
+    .links div {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .links a {
+        font-size: 1.5em;
+        font-weight: bold;
+        text-decoration: none;
+        color: #5c616b;
+    }
+
+    .links .link-text {
+        background: linear-gradient(#d0d3d8, #d0d3d8) no-repeat center bottom / 100% 40%;
+    }
+
+    .github-link:hover {
+        color: #000000;
+        /* GitHub 链接的 hover 颜色 */
+    }
+
+    .telegram-link:hover {
+        color: #2481cc;
+        /* Telegram 链接的 hover 颜色 */
+    }
+
+    .blog-link:hover {
+        color: #5b8b9c;
+        /* Blog 链接的 hover 颜色 */
+    }
+
+    .spotify-link:hover {
+        color: #1fdf64;
+        /* Spotify 链接的 hover 颜色 */
+    }
+
+    .email-link:hover {
+        color: #0078d4;
+        /* Email 链接的 hover 颜色 */
+    }
+
+    .friends-link:hover {
+        color: #e8850c;
+        /* Friends 链接的 hover 颜色 */
+    }
+
+    /* 当屏幕的长宽比小于或等于 1 时（移动端），应用以下规则 */
+    @media (max-aspect-ratio: 1/1) {
         .hello {
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            text-align: center;
+            justify-content: flex-start;
+            padding-left: 5vw;
+            text-align: left;
             padding-top: 10%;
         }
 
         .hello h1 {
-            font-size: 3em;
+            font-size: 2.5em;
         }
 
         .hello br {
-            display: none;
-        }
-
-        .color-name {
-            color: #1859ad;
+            display: block;
         }
 
         .text {
-            text-align: center;
-            font-size: 1.5em;
+            justify-content: center;
+            font-size: 1.2em;
             color: #000000;
-            padding-left: 17%;
-            padding-right: 17%;
+            padding-left: 5%;
+            padding-right: 5%;
         }
 
         .text p {
-            line-height: 1.6em;
+            text-align: left;
         }
 
         .text br {
-            display: none;
+            display: block;
         }
 
         .links {
-            display: flex;
-            justify-content: center;
-            padding-top: 3%;
+            flex-direction: column;
+            padding-left: 5%;
         }
 
         .links div {
-            margin-left: 20px;
-            margin-right: 20px;
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 10px;
+            margin-bottom: 10px;
         }
 
         .links a {
-            font-size: 1.5em;
+            font-size: 1.2em;
             font-weight: bold;
             text-decoration: none;
             color: #5c616b;
+            outline: none;
+            -webkit-tap-highlight-color: transparent;
         }
 
-        .links .link-text {
-            background: linear-gradient(#d0d3d8, #d0d3d8) no-repeat center bottom / 100% 40%;
-        }
-
-        .github-link:hover {
-            color: #000000;
-            /* GitHub 链接的 hover 颜色 */
-        }
-
-        .telegram-link:hover {
-            color: #2481cc;
-            /* Telegram 链接的 hover 颜色 */
-        }
-
-        .blog-link:hover {
-            color: #5b8b9c;
-            /* Blog 链接的 hover 颜色 */
-        }
-
-        .spotify-link:hover {
-            color: #1fdf64;
-            /* Spotify 链接的 hover 颜色 */
-        }
-
-        .email-link:hover {
-            color: #0078d4;
-            /* Email 链接的 hover 颜色 */
-        }
-
-        .friends-link:hover {
-            color: #e8850c;
-            /* Friends 链接的 hover 颜色 */
-        }
-
-        /* 当屏幕的长宽比小于或等于 1 时（移动端），应用以下规则 */
-        @media (max-aspect-ratio: 1/1) {
-            .hello {
-                justify-content: flex-start;
-                padding-left: 5vw;
-                text-align: left;
-                padding-top: 10%;
-            }
-
-            .hello h1 {
-                font-size: 2.5em;
-            }
-
-            .hello br {
-                display: block;
-            }
-
-            .text {
-                justify-content: center;
-                font-size: 1.2em;
-                color: #000000;
-                padding-left: 5%;
-                padding-right: 5%;
-            }
-
-            .text p {
-                text-align: left;
-            }
-
-            .text br {
-                display: block;
-            }
-
-            .links {
-                flex-direction: column;
-                padding-left: 5%;
-            }
-
-            .links div {
-                margin-left: 0;
-                margin-right: 0;
-                margin-top: 10px;
-                margin-bottom: 10px;
-            }
-
-            .links a {
-                font-size: 1.2em;
-                font-weight: bold;
-                text-decoration: none;
-                color: #5c616b;
-                outline: none;
-                -webkit-tap-highlight-color: transparent;
-            }
-
-        }
-    </style>
+    }
+</style>
 
 <body>
     <div class="hello">
