@@ -2,28 +2,185 @@
 <html lang="zh-cn">
 
 <head>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="referrer" content="never">
-	<meta name="viewport"
-		content="width=device-width,initial-scale=1.0,user-scalable=no,maximum-scale=1.0,viewport-fit=cover,shrink-to-fit=no">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="referrer" content="strict-origin">
-	<link rel="apple-touch-icon"
-		href="https://creatorspace.imgix.net/users/cludw9lb702ryu301a01yudgt/rvErtWeborT10X46-Image_1700538611781.jpg?w=300&h=300">
-	<link rel="icon"
-		href="https://creatorspace.imgix.net/users/cludw9lb702ryu301a01yudgt/rvErtWeborT10X46-Image_1700538611781.jpg?w=300&h=300">
-	<title>
-		Barkure
-	</title>
-</head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barkure</title>
+    <style>
+        body {
+            background-color: #ecf0f1;
+        }
 
-<body style="height: 100%;">
-	<iframe id="frame" src="https://bento.me/barkure" frameborder="0" marginwidth="0" marginheight="0" vspace="0"
-		hspace="0" allowtransparency="true" scrolling="auto" allowfullscreen="true"
-		style="width: 100%; height: 100%; frameborder: 0; position: absolute; top: 0; left: 0;">
-	</iframe>
+        .hello {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            text-align: center;
+            padding-top: 10%;
+        }
+
+        .hello h1 {
+            font-size: 3em;
+        }
+
+        .hello br {
+            display: none;
+        }
+
+        .color-name {
+            color: #1859ad;
+        }
+
+        .text {
+            text-align: center;
+            font-size: 1.5em;
+            color: #898989;
+            padding-left: 17%;
+            padding-right: 17%;
+        }
+
+        .text p {
+            line-height: 1.6em;
+        }
+
+        .text br {
+            display: none;
+        }
+
+        .links {
+            display: flex;
+            justify-content: center;
+            padding-top: 3%;
+        }
+
+        .links div {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .links a {
+            font-size: 1.5em;
+            font-weight: bold;
+            text-decoration: none;
+            color: #5c616b;
+        }
+
+        .links .link-text {
+            background: linear-gradient(#d0d3d8, #d0d3d8) no-repeat center bottom / 100% 40%;
+        }
+
+        .github-link:hover {
+            color: #000000;
+            /* GitHub 链接的 hover 颜色 */
+        }
+
+        .telegram-link:hover {
+            color: #2481cc;
+            /* Telegram 链接的 hover 颜色 */
+        }
+
+        .blog-link:hover {
+            color: #618794;
+            /* Blog 链接的 hover 颜色 */
+        }
+
+        .spotify-link:hover {
+            color: #1fdf64;
+            /* Spotify 链接的 hover 颜色 */
+        }
+
+        .email-link:hover {
+            color: #0078d4;
+            /* Email 链接的 hover 颜色 */
+        }
+
+        /* 当屏幕的长宽比小于或等于 1 时（移动端），应用以下规则 */
+        @media (max-aspect-ratio: 1/1) {
+            .hello {
+                justify-content: flex-start;
+                padding-left: 5vw;
+                text-align: left;
+                padding-top: 20%;
+            }
+
+            .hello h1 {
+                font-size: 2.5em;
+            }
+
+            .hello br {
+                display: block;
+            }
+
+            .text {
+                text-align: left;
+                font-size: 1.3em;
+                color: #898989;
+                padding-left: 5%;
+            }
+
+            .text br {
+                display: block;
+            }
+
+            .links {
+                flex-direction: column;
+                padding-left: 5%;
+            }
+
+            .links div {
+                margin-left: 0;
+                margin-right: 0;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+            .links a {
+                font-size: 1.2em;
+                font-weight: bold;
+                text-decoration: none;
+                color: #5c616b;
+            }
+
+        }
+    </style>
+
+<body>
+    <div class="hello">
+        <h1>Hello!<br> I'm <span class="color-name">Barkure</span></h1>
+    </div>
+    <div class="text">
+        <p>我目前在中南大学学习地球物理学（本科），同时对控制科学感兴趣。<br>
+            我会一点点 Web 开发，平时会用 Python 做一些事情。
+        </p>
+    </div>
+    <div class="links">
+        <div>
+            <a href="https://blog.barku.re" class="blog-link">
+                <i class="fas fa-edit"></i> <span class="link-text">Blog</span>
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/barkure" class="github-link">
+                <i class="fab fa-github"></i> <span class="link-text">GitHub</span>
+            </a>
+        </div>
+        <div>
+            <a href="https://t.me/barkure" class="telegram-link">
+                <i class="fab fa-telegram"></i> <span class="link-text">Telegram</span>
+            </a>
+        </div>
+        <div>
+            <a href="https://open.spotify.com/playlist/2ZU7T6RSMlVu7Ji0KynPIG?si=052d43b0e44045bc" class="spotify-link">
+                <i class="fab fa-spotify"></i> <span class="link-text">Spotify</span>
+            </a>
+        </div>
+        <div>
+            <a href="mailto:XINYAO_QI@outlook.com" class="email-link">
+                <i class="fas fa-at"></i> <span class="link-text">Email</span>
+            </a>
+        </div>
+    </div>
+
 </body>
 
 </html>
