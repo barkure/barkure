@@ -23,6 +23,6 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Android 13](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/barkure?tab=repositories)
