@@ -1,7 +1,7 @@
 # 👋 你好 / Hello / こんにちは
 - 🏫 Studying geophysics at Central South University
 - 🤖 Interested in Generative AI and Control Science
-- 🥰 Reach me: [barkure](https://barku.re)1
+- 🥰 Reach me: [barkure](https://barku.re)
 # 💻 Coding
 ### Languages & Tools & OS
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
