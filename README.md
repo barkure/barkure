@@ -27,5 +27,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-000000?style=for-the-badge&logo=micropython&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ### GitHub Stats
 [![Barkure's GitHub stats](https://github-readme-stats.vercel.app/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/barkure?tab=repositories)
