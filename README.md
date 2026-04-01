@@ -1,11 +1,17 @@
+<table>
+  <tr>
+    <td valign="top">
+
 # 👋 你好 / Hello / こんにちは
-- 🏫 Studying geophysics at Central South University
-- 🤖 Interested in Generative AI and Control Science
+- 🏫 Studying geophysics at Central South University  
+- 🤖 Interested in Generative AI and Control Science  
 - 🥰 Reach me: [barkure](https://barku.re)
 
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/barkure">
-    <img src="https://github-readme-stats.shion.dev/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true&hide_border=true&border_radius=0&hide_rank=true" />
-  </a>
-</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/barkure?tab=repositories&sort=stargazers">
+        <img src="https://github-readme-stats.shion.dev/api?username=barkure&show_icons=true&theme=ambient_gradient&hide_title=true&hide_border=true&border_radius=0&hide_rank=true" />
+      </a>
+    </td>
+  </tr>
+</table>
