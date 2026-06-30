@@ -11,6 +11,10 @@
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://githubroast.dev/u/barkure">
-    <img src="https://githubroast.dev/api/card/barkure" alt="GitHub Roast" width="500" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://githubroast.dev/api/card/barkure?theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://githubroast.dev/api/card/barkure?theme=light" />
+      <img src="https://githubroast.dev/api/card/barkure?theme=light" alt="GitHub Roast" width="500" />
+    </picture>
   </a>
 </p>
