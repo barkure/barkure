@@ -6,9 +6,9 @@
 <p align="left">
   <a href="https://ghfind.com/u/barkure">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/barkure?theme=dark&variant=path" />
-      <source media="(prefers-color-scheme: light)" srcset="https://ghfind.com/api/card/barkure?theme=light&variant=path" />
-      <img src="https://ghfind.com/api/card/barkure?theme=light&variant=path" alt="GitHub Roast" width="500" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/barkure?theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://ghfind.com/api/card/barkure?theme=light" />
+      <img src="https://ghfind.com/api/card/barkure?theme=light" alt="GitHub Roast" width="500" />
     </picture>
   </a>
 </p>
